@@ -5,7 +5,9 @@ My name is Adisorn Sommart
 I’m currently studying at KMITL, 
 
 My field of study is Electronics Engineering 
+
 🌍  I'm based in Bangkok, Thailand 
+
 🧠  I'm learning VHDL
 
 ### Skills  
