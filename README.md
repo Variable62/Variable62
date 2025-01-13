@@ -8,7 +8,6 @@ i'm interested in PCB Design, FPGA
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [adisornsommart80@gmail.com](mailto:adisornsommart80@gmail.com)
-* 🧠  I'm learning VHDl
 
 ### Skills
 
