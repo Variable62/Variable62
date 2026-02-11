@@ -4,4 +4,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m currently studying at KMITL, My field of study is Electronics Engineering
 -----------------------------------------------------------------------------
 
-i'm interested in PCB Design, FPGA
+i'm interested in PCB Design, FPGA, Programming.
