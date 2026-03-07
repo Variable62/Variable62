@@ -6,7 +6,7 @@ Hi 👋 My name is My name is Adisorn Sommart
 
 I’m currently studying at KMITL, My field of study is Electronics Engineering
 -----------------------------------------------------------------------------
-
+* I'm interested in Embedded system , FPGA and PCB Design.
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [adisornsommart80@gmail.com](mailto:adisornsommart80@gmail.com)
 
