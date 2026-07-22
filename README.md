@@ -42,6 +42,7 @@ I am a passionate Electronics Engineering student with a strong focus on bridgin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Variable62&show_icons=true&theme=tokyonight" alt="Adisorn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Variable62&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -51,5 +52,3 @@ I am a passionate Electronics Engineering student with a strong focus on bridgin
 * **Location:** Bangkok, Thailand 🌍
 * **Email:** [adisornsommart80@gmail.com](mailto:adisornsommart80@gmail.com) ✉️
 * **GitHub:** [@Variable62](https://github.com/Variable62) 🐙
-
----
