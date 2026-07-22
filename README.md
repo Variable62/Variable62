@@ -37,15 +37,11 @@ I am a passionate Electronics Engineering student with a strong focus on bridgin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Variable62&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Variable62&show_icons=true&theme=tokyonight" alt="Adisorn's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Variable62&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThanvaAdisorn&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages" />
 </p>
 
 ---
